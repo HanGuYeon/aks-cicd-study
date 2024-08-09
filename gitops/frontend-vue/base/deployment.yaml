@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend-vue
-        image: eduazureregistryhgy.azurecr.io
+        image: eduazureregistryhgy.azurecr.io/frontend-vue:main-20240809071751
         ports:
         - containerPort: 80
