@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: eduazureregistryhgy.azurecr.io
-    newTag: main-20240712064845
+    newTag: main-20240809071751
 
 commonLabels:
   app: frontend-vue
